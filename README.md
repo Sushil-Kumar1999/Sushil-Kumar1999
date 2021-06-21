@@ -2,7 +2,7 @@
 
 ### What I am up to:
 I’m currently learning:
-- 📱 Responsive web design i.e., how to create websites look great on devices of all screen sizes
+- 📱 Responsive web design i.e., how to create websites that look great on devices of all screen sizes
 - ☁️ Azure Fundamentals course to write Microsoft's AZ-900 exam
 
 🔭 I’m currently working on creating some basic responsive webpages and improving my HTML5/CSS3 skills.
