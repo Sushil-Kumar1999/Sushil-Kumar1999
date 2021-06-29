@@ -1,16 +1,13 @@
 ### Hi there! 👋. I am Sushil. Welcome to my GitHub page :smile:
 
 ### What I am up to:
-I’m currently learning:
-- 📱 Responsive web design i.e., how to create websites that look great on devices of all screen sizes
-- ☁️ Azure Fundamentals course to write Microsoft's AZ-900 exam
 
-🔭 I’m currently working on creating some basic responsive webpages and improving my HTML5/CSS3 skills.
+I like learning new things. You can see what I am up to in my Microsoft profile [here](https://docs.microsoft.com/en-gb/users/sushilkumar-5267/).
 
 ### 📫 How to reach me:
 You can reach me in one of two ways:
 - Sending an email to johnklutz.sk@gmail.com.
-- Pop me a message on LinkedIn. You can view my LinkedIn profile at https://www.linkedin.com/in/sushilkumarsk/
+- Feel free to connect with me on LinkedIn. [Here's](https://www.linkedin.com/in/sushilkumarsk/) my profile.
 
 <!--
 **Sushil-Kumar1999/Sushil-Kumar1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
