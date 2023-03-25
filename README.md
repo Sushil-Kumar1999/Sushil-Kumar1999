@@ -6,7 +6,7 @@ I like learning new things. You can see what I am up to in my Microsoft profile 
 
 ### 📫 How to reach me:
 You can reach me in one of two ways:
-- Sending an email to johnklutz.sk@gmail.com.
+- Sending an email to ksk.sushil.kumar@gmail.com.
 - Feel free to connect with me on LinkedIn. [Here's](https://www.linkedin.com/in/sushilkumarsk/) my profile.
 
 <!--
